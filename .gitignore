@@ -89,3 +89,4 @@ typings/
 
 #VSCode
 .vscode/
+*.code-workspace
